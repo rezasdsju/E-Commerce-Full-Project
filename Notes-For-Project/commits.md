@@ -6,3 +6,7 @@ git commit -m "Basic Folders and Files Creation for E-Commerce Project
 - A file to store commit messeges
 - Initialize README.md 
 "
+
+
+
+git commit -m " Commit Messeges has been stored in commits.md file"

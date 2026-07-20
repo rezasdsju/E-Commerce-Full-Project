@@ -5,3 +5,9 @@
 - React App Creation
 - Enable CORS between React and Django
 - Test API --> React Communication
+
+
+
+
+
+
